@@ -1,16 +1,59 @@
-## Hi there 👋
+# Talha
 
-<!--
-**TalhaKasapoglu/TalhaKasapoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Money should be a tool, not a goal.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## about
+
+Backend engineer.  
+System designer.  
+
+I build software that assumes:
+- failure is normal
+- state must be explicit
+- trust is a liability
+- ownership is non-negotiable
+
+Technology should increase agency.
+
+---
+
+## stack
+
+[![My Skills](https://skillicons.dev/icons?i=c,rust,nix,solidity,go,cs,kubernetes,bash,linux,neovim&perline=5)](https://skillicons.dev)
+
+---
+
+## focus
+
+- distributed systems
+- deterministic environments
+- infrastructure-first design
+- performance & memory awareness
+- long-term maintainability
+- blockchain infrastructure
+
+---
+
+## principles
+
+- no hidden magic
+- no unnecessary layers
+- no black boxes
+- no platform dependency if avoidable
+
+build less.  
+understand more.  
+
+---
+
+## current
+
+- reproducible infra
+- high-performance backends
+- system architecture refinement
+
+---
+
+> clarity is a competitive advantage.
