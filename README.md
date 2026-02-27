@@ -6,8 +6,8 @@
 
 ## about
 
-Backend engineer.  
-System designer.  
+Backend engineer.
+System designer.
 
 I build software that assumes:
 - failure is normal
@@ -43,8 +43,8 @@ Technology should increase agency.
 - no black boxes
 - no platform dependency if avoidable
 
-build less.  
-understand more.  
+build less.
+understand more.
 
 ---
 
