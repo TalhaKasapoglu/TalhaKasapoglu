@@ -21,7 +21,7 @@ Technology should increase agency.
 
 ## stack
 
-[![My Skills](https://skillicons.dev/icons?i=c,rust,nix,typescript,go,cs,kubernetes,bash,linux,neovim&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,go,cs,typescript,nix,kubernetes,postgres,nextjs,linux,neovim&perline=5)](https://skillicons.dev)
 
 ---
 
